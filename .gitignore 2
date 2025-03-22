@@ -1,8 +1,0 @@
- OS / IDE files
-.DS_Store
-Thumbs.db
-.idea/
-.vscode/
-
-# Logs
-*.log
