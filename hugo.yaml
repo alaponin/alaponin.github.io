@@ -1,4 +1,4 @@
-baseURL: https://alaponin.github.io/
+baseURL: "http://arnelaponin.eu/"
 title: "Arne Lapõnin"
 theme: "hugo-coder"
 languageCode: "en"
