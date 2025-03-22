@@ -25,7 +25,7 @@ params:
   info:
     - "Tallinn, Estonia"
     - "Data Architect, Data Engineer, Tech Lead"
-  avatarURL: "arne_front_page.jpg"    # If you have an avatar in /static/images, e.g. /images/avatar.jpg
+  avatarURL: "images/arne_front_page.jpg"    # If you have an avatar in /static/images, e.g. /images/avatar.jpg
   dateFormat: "January 2, 2006"
   since: 2023
   colorScheme: "auto"
