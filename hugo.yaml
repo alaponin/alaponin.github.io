@@ -36,7 +36,7 @@ params:
     - name: "LinkedIn"
       icon: "fa-brands fa-linkedin fa-2x"
       weight: 1
-      url: "www.linkedin.com/in/arnelaponin"
+      url: "https://linkedin.com/in/arnelaponin"
     - name: "GitHub"
       icon: "fa-brands fa-github fa-2x"
       weight: 2
@@ -44,13 +44,7 @@ params:
     - name: "Medium"
       icon: "fa-brands fa-medium fa-2x"
       weight: 3
-      url: "https://medium.com/@arnelaponin"
-    - name: "RSS"
-      icon: "fa-solid fa-rss fa-2x"
-      weight: 4
-      url: "/index.xml"
-      rel: "alternate"
-      type: "application/rss+xml"
+      url: "https://medium.com/@arnelapnin"
 
 # Define top-level menu items in the main menu
 languages:
