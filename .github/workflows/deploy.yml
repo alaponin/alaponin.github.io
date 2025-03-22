@@ -7,14 +7,14 @@ on:
       - main   # run when pushing to main
   pull_request:
 
+permissions:
+  contents: write
+  
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Debug
-        run: cd .. & pwd & ls -la
-
       - name: Check out source
         uses: actions/checkout@v3
 
