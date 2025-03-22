@@ -22,7 +22,7 @@ jobs:
           extended: true  # if your theme needs extended SCSS
 
       - name: Build
-        run: hugo --minify --config arnelaponin/hugo.yaml
+        run: hugo --minify --source arnelaponin --config arnelaponin/hugo.yaml
         # Explanation:
         #   "arnelaponin/hugo.yaml" is your config file path
         #   Use "--minify" for smaller output (optional)
