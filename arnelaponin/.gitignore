@@ -1,0 +1,19 @@
+# Hugo output directory
+public/
+
+# Hugo's auto-generated resources
+resources/_gen/
+
+# Hugo cache
+.hugo_build.lock
+.hugo_cache/
+cache/
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
