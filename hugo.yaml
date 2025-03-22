@@ -47,7 +47,7 @@ params:
       url: "https://medium.com/@arnelapnin"
 
   customCSS:
-    - "/css/custom.css"
+    - "css/custom.css"
 
 # Define top-level menu items in the main menu
 languages:
