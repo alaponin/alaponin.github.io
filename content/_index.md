@@ -1,6 +1,6 @@
 ---
-title: "Welcome"
-description: "Welcome to the personal site of Arne Lapõnin"
+title: "Arne Lapõnin"
+description: "Data Strategist and Architect"
 ---
 
 This is my personal website where I share my work in data architecture and data engineering,
