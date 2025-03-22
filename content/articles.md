@@ -4,7 +4,7 @@ title: "Articles"
 
 Below is a list of articles I’ve written:
 
-## TW published articles
+## Published articles
 
 1. **Getting traction with Data Mesh**  
    Date: 27.03.2024  
