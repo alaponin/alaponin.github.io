@@ -6,7 +6,7 @@ title: "Curriculum Vitae"
 **LinkedIn**: [Arne Lapõnin](https://linkedin.com/in/arnelaponin)  
 **Email**: [arne.laponin@gmail.com](mailto:arne.laponin@gmail.com)
 
-I am a data architect, data engineer, and tech lead, specializing in the development and management of advanced data platforms and analytics systems. My expertise centers around constructing scalable data platforms and facilitating data mesh implementations. I am adept at utilizing a range of technologies, including Spark, Python, and various AWS services. I can cultivate high-performing teams, significantly enhancing overall team efficiency and performance. In addition to my project roles, I enjoy engaging in thought leadership through writing and presenting at conferences. My work not only demonstrates technical proficiency but also a commitment to mentorship, team development, and the responsible use of data and technology.
+I am a data strategist, data architect, data engineer, and tech lead, specializing in the development and management of advanced data platforms and analytics systems. My expertise centers around constructing scalable data platforms and facilitating data mesh implementations. I am adept at utilizing a range of technologies, including Spark, Python, and various AWS services. I can cultivate high-performing teams, significantly enhancing overall team efficiency and performance. In addition to my project roles, I enjoy engaging in thought leadership through writing and presenting at conferences. My work not only demonstrates technical proficiency but also a commitment to mentorship, team development, and the responsible use of data and technology.
 
 ---
 

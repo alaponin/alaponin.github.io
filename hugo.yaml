@@ -21,10 +21,10 @@ markup:
 params:
   author: "Arne Lapõnin"
   description: "Data Architect and Data Engineer"
-  keywords: "data,architect,engineer"
+  keywords: "data,architect,strategy,engineer"
   info:
     - "Tallinn, Estonia"
-    - "Data Architect, Data Engineer, Tech Lead"
+    - "Data Strategist, Data Architect, Data Engineer, Tech Lead"
   avatarURL: "images/arne_front_page.jpg"    # If you have an avatar in /static/images, e.g. /images/avatar.jpg
   dateFormat: "January 2, 2006"
   since: 2023
