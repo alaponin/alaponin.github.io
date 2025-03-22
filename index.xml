@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome on Arne Lapõnin</title><link>https://alaponin.github.io/</link><description>Recent content in Welcome on Arne Lapõnin</description><generator>Hugo</generator><language>en</language><atom:link href="https://alaponin.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Articles</title><link>https://alaponin.github.io/articles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alaponin.github.io/articles/</guid><description>&lt;p>Below is a list of articles I’ve written:&lt;/p>
+&lt;h2 id="tw-published-articles">
+ TW published articles
+ &lt;a class="heading-link" href="#tw-published-articles">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Crafting my journey at Thoughtworks University&lt;/strong>&lt;br>
+Date: 5.06.2020&lt;br>
+&lt;a href="https://www.thoughtworks.com/insights/blog/crafting-my-journey-thoughtworks-university" class="external-link" target="_blank" rel="noopener">Read on Thoughtworks.com&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>[Stories of social change] Reducing the gender gap in the music industry&lt;/strong>&lt;br>
+Date: 22.07.2020&lt;br>
+&lt;a href="https://www.thoughtworks.com/en-us/insights/blog/stories-social-change-reducing-gender-gap-music-industry-through-technology" class="external-link" target="_blank" rel="noopener">Read on Thoughtworks.com&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>The rise and stumble of a DSL: the story of how we tested data pipelines&lt;/strong>&lt;br>
+Date: 16.12.2021&lt;br>
+&lt;a href="https://www.thoughtworks.com/insights/blog/data-engineering/rise-and-stumble-of-a-dsl-story-of-how-we-tested-data-pipelines" class="external-link" target="_blank" rel="noopener">Read on Thoughtworks.com&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Bootstrap yourself into a data-driven organization&lt;/strong>&lt;br>
+Date: 16.02.2022&lt;br>
+&lt;a href="https://www.thoughtworks.com/insights/blog/data-engineering/data-driven-organization" class="external-link" target="_blank" rel="noopener">Read on Thoughtworks.com&lt;/a>&lt;/p></description></item><item><title>Conferences</title><link>https://alaponin.github.io/conferences/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alaponin.github.io/conferences/</guid><description>&lt;p>I have presented at:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>DevTalks 2023&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Big Data Europe 2023&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Software Architecture Summit at Bucharest Tech Week&lt;/strong>&lt;br>
+&lt;a href="https://youtu.be/_9WK0B1pzzU" class="external-link" target="_blank" rel="noopener">Watch here&lt;/a>&lt;/li>
+&lt;li>&lt;strong>XConf Europe 2022&lt;/strong>&lt;br>
+&lt;a href="https://youtu.be/NLr42EfZFf8" class="external-link" target="_blank" rel="noopener">Watch here&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Swiss Testing Day 2022&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>DevDays Europe 2022&lt;/strong>&lt;br>
+&lt;a href="https://youtu.be/HYa3xjHDWZI" class="external-link" target="_blank" rel="noopener">Watch here&lt;/a>&lt;/li>
+&lt;li>&lt;strong>XConf Europe 2021&lt;/strong>&lt;br>
+&lt;a href="https://youtu.be/kr9kWB2aJNM" class="external-link" target="_blank" rel="noopener">Watch here&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Contact</title><link>https://alaponin.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alaponin.github.io/contact/</guid><description>&lt;p>Feel free to reach out via:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>LinkedIn&lt;/strong>: &lt;a href="https://www.linkedin.com/in/arne-laponin" class="external-link" target="_blank" rel="noopener">Arne Lapõnin&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Email&lt;/strong>: &lt;a href="mailto:arne.laponin@gmail.com" >arne.laponin@gmail.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Phone&lt;/strong>: +372 53091881&lt;/li>
+&lt;/ul></description></item><item><title>Curriculum Vitae</title><link>https://alaponin.github.io/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alaponin.github.io/cv/</guid><description>&lt;p>Tallinn, Estonia&lt;br>
+&lt;strong>LinkedIn&lt;/strong>: &lt;a href="https://www.linkedin.com/in/arne-laponin" class="external-link" target="_blank" rel="noopener">Arne Lapõnin&lt;/a>&lt;br>
+&lt;strong>Phone&lt;/strong>: +372 53091881&lt;br>
+&lt;strong>Email&lt;/strong>: &lt;a href="mailto:arne.laponin@gmail.com" >arne.laponin@gmail.com&lt;/a>&lt;/p>
+&lt;p>I am a data architect, data engineer, and tech lead, specializing in &amp;hellip;
+[Include the entire CV text here exactly as you wrote it.]&lt;/p></description></item><item><title>Foundations of Data Mesh</title><link>https://alaponin.github.io/oreilly-course/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alaponin.github.io/oreilly-course/</guid><description>&lt;p>I co-authored a video course on O’Reilly:&lt;br>
+&lt;a href="https://www.oreilly.com/library/view/foundations-of-data/0636920971191/" class="external-link" target="_blank" rel="noopener">Foundations of Data Mesh&lt;/a>&lt;/p>
+&lt;p>This course provides a comprehensive overview on how to approach Data Mesh architecture.&lt;/p></description></item></channel></rss>
