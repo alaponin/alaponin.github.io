@@ -1,0 +1,35 @@
+# .github/workflows/deploy.yml
+name: Build and Deploy Hugo
+
+on:
+  push:
+    branches:
+      - main   # run when pushing to main
+  pull_request:
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v3
+
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true  # if your theme needs extended SCSS
+
+      - name: Build
+        run: hugo --minify --config arnelaponin/hugo.yaml
+        # Explanation:
+        #   "arnelaponin/hugo.yaml" is your config file path
+        #   Use "--minify" for smaller output (optional)
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
