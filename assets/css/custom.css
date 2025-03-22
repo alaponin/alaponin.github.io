@@ -1,0 +1,6 @@
+/* assets/css/custom.css */
+.avatar img {
+  width: 600px;         /* or any size you want */
+  height: auto;         /* keeps aspect ratio */
+  border-radius: 5px;   /* reduce rounding (defaults might be 50% for circles) */
+}

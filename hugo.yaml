@@ -25,7 +25,7 @@ params:
   info:
     - "Tallinn, Estonia"
     - "Data Architect, Data Engineer, Tech Lead"
-  avatarURL: ""    # If you have an avatar in /static/images, e.g. /images/avatar.jpg
+  avatarURL: "arne_front_page.jpg"    # If you have an avatar in /static/images, e.g. /images/avatar.jpg
   dateFormat: "January 2, 2006"
   since: 2023
   colorScheme: "auto"
@@ -45,6 +45,9 @@ params:
       icon: "fa-brands fa-medium fa-2x"
       weight: 3
       url: "https://medium.com/@arnelapnin"
+
+  customCSS:
+    - "/css/custom.css"
 
 # Define top-level menu items in the main menu
 languages:

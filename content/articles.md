@@ -42,7 +42,6 @@ Below is a list of articles I’ve written:
    Date: 5.06.2020  
    [Read on Thoughtworks.com](https://www.thoughtworks.com/insights/blog/crafting-my-journey-thoughtworks-university)
 
-* **The theory you need to know before you start an NLP project**
-
-    Date: 27.07.2019  
+* **The theory you need to know before you start an NLP project**  
+   Date: 27.07.2019  
     [Read on Medium](https://medium.com/data-science/the-theory-you-need-to-know-before-you-start-an-nlp-project-1890f5bbb793)
