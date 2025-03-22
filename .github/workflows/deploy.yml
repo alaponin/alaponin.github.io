@@ -12,6 +12,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Debug
+        run: ls -la arnelaponin
+        
       - name: Check out source
         uses: actions/checkout@v3
 
