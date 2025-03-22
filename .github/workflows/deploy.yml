@@ -13,8 +13,8 @@ jobs:
 
     steps:
       - name: Debug
-        run: ls -la arnelaponin
-        
+        run: pwd & ls -la
+
       - name: Check out source
         uses: actions/checkout@v3
 
