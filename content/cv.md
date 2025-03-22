@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 ---
 
 **Tallinn, Estonia**  
-**LinkedIn**: [Arne Lapõnin](https://www.linkedin.com/in/arnelaponin)  
+**LinkedIn**: [Arne Lapõnin](https://linkedin.com/in/arnelaponin)  
 **Phone**: +372 53091881  
 **Email**: [arne.laponin@gmail.com](mailto:arne.laponin@gmail.com)
 
