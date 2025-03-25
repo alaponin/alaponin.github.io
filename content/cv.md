@@ -16,9 +16,8 @@ I am a data strategist, data architect, data engineer, and tech lead, specializi
 **Data Warehouse Business Unit**, Tallinn, Estonia
 
 - Spearheaded the creation of a company-wide data strategy (approved by the Management Board), transforming data usage:
-    - Shifted analysts' roles from "shadow IT" to strategic data stewards supporting data-driven decisions.
-    - Embedded a data product mindset within domain teams by decentralizing engineering efforts.
-    - Introduced “data openness by default” policies while embedding robust security protocols.
+    - Shifted analysts' roles to strategic data stewards supporting data-driven decisions.
+    - Started embedding a data product mindset within domain teams by decentralizing engineering efforts.
 - Initiated the transformation of a legacy MS SQL Server-based platform into a cloud-based Lakehouse architecture:
     - Developed the concept “Data Lake as a Service,” enabling historical data storage, quality assurance, and metadata integration.
 - Recruited data platform engineers to build a team.
